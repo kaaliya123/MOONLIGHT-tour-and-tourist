@@ -9,9 +9,9 @@ A responsive one-page website for a Dehradun local tour / vehicle-rental busines
 
 ## WhatsApp
 All contact buttons currently use:
-********01
+7302658801
 
-The WhatsApp number is formatted in the URL as `********01`.
+The WhatsApp number is formatted in the URL as `917302658801`.
 
 ## Netlify deployment
 1. Create a GitHub repository.
